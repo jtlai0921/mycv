@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+    <facet type="apk" name="APK">
+      <configuration>
+        <option name="APK_PATH" value="$MODULE_DIR$/lbuilder__86158_1583214239.apk" />
+        <option name="APP_PACKAGE" value="com.app.jtlai" />
+        <option name="SETUP_ISSUES">
+          <list />
+        </option>
+        <option name="NATIVE_LIBRARIES">
+          <list />
+        </option>
+        <option name="JAVA_SOURCE_FOLDER_PATHS">
+          <set>
+            <option value="C:\Users\C\ApkProjects\lbuilder__86158_1583214239" />
+          </set>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
